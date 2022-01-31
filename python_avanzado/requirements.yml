@@ -1,0 +1,12 @@
+name: pieIntermedio
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - mamba
+  - pandas
+  - ca-certificates
+  - certifi
+  - openssl
+prefix: /home/csr/anaconda3/envs/pieIntermedio
